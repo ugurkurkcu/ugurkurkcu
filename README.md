@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ugur</h1>
 <h3 align="center">A passionate frontend and mobile developer from Earth</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ugurkurkcu](https://github.com/ugurkurkcu)
+- 👨‍💻 All of my projects are available at [https://github.com/ugurkurkcu?tab=repositories](https://github.com/ugurkurkcu?tab=repositories)
 
 - 📫 How to reach me **uurkurkcu@gmail.com**
 
